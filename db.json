@@ -1,0 +1,365 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Black Jacket",
+      "price": 120,
+      "category": "Outerwear",
+      "image": "/images/Outerwear1BJ.png",
+      "description": "Black Jacket, good for all seasons",
+      "stock": 10
+    },
+    {
+      "id": "2",
+      "name": "Grey Coat",
+      "price": 140,
+      "category": "Outerwear",
+      "image": "/images/Outerwear2GC.png",
+      "description": "Grey Coat, perfect for cold weather",
+      "stock": 8
+    },
+    {
+      "id": "3",
+      "name": "Windbreaker",
+      "price": 90,
+      "category": "Outerwear",
+      "image": "/images/Outerwear3WB.png",
+      "description": "Windbreaker, great for windy days",
+      "stock": 6
+    },
+    {
+      "id": "4",
+      "name": "Leather Jacket",
+      "price": 200,
+      "category": "Outerwear",
+      "image": "/images/Outerwear4.png",
+      "description": "Leather Jacket, durable and stylish",
+      "stock": 5
+    },
+    {
+      "id": "5",
+      "name": "Denim Jacket",
+      "price": 110,
+      "category": "Outerwear",
+      "image": "/images/Outerwear5DJ.png",
+      "description": "Denim Jacket, classic and comfortable",
+      "stock": 7
+    },
+    {
+      "id": "6",
+      "name": "Puffer Jacket",
+      "price": 180,
+      "category": "Outerwear",
+      "image": "/images/Outerwear6PJ.png",
+      "description": "Puffer Jacket, great for winter weather",
+      "stock": 9
+    },
+    {
+      "id": "7",
+      "name": "Trench Coat",
+      "price": 160,
+      "category": "Outerwear",
+      "image": "/images/Outerwear7TC.png",
+      "description": "Trench Coat, perfect for spring and fall",
+      "stock": 4
+    },
+    {
+      "id": "8",
+      "name": "Raincoat",
+      "price": 100,
+      "category": "Outerwear",
+      "image": "/images/Outerwear8RC.png",
+      "description": "Raincoat, perfect for rainy days",
+      "stock": 6
+    },
+    {
+      "id": "9",
+      "name": "Cargo Pants",
+      "price": 80,
+      "category": "Pants",
+      "image": "/images/Pants9CP.png",
+      "description": "Cargo Pants, functional and stylish",
+      "stock": 10
+    },
+    {
+      "id": "10",
+      "name": "Jeans",
+      "price": 70,
+      "category": "Pants",
+      "image": "/images/Pants10J.png",
+      "description": "Denim Jeans, classic and comfortable",
+      "stock": 12
+    },
+    {
+      "id": "11",
+      "name": "Sweatpants",
+      "price": 50,
+      "category": "Pants",
+      "image": "/images/Pants11SP.png",
+      "description": "Sweatpants, perfect for casual wear",
+      "stock": 15
+    },
+    {
+      "id": "12",
+      "name": "Black Pants",
+      "price": 60,
+      "category": "Pants",
+      "image": "/images/Pants12BP.png",
+      "description": "Black Pants, versatile and stylish",
+      "stock": 11
+    },
+    {
+      "id": "13",
+      "name": "Joggers",
+      "price": 55,
+      "category": "Pants",
+      "image": "/images/Pants13J.png",
+      "description": "Joggers, perfect for exercise",
+      "stock": 9
+    },
+    {
+      "id": "14",
+      "name": "Chinos",
+      "price": 65,
+      "category": "Pants",
+      "image": "/images/Pants14C.png",
+      "description": "Chinos, perfect for casual wear",
+      "stock": 8
+    },
+    {
+      "id": "15",
+      "name": "Track Pants",
+      "price": 45,
+      "category": "Pants",
+      "image": "/images/Pants15TP.png",
+      "description": "Track Pants, perfect for sports",
+      "stock": 7
+    },
+    {
+      "id": "16",
+      "name": "Wide Pants",
+      "price": 75,
+      "category": "Pants",
+      "image": "/images/Pants16WP.png",
+      "description": "Wide Pants, perfect for a relaxed fit",
+      "stock": 6
+    },
+    {
+      "id": "17",
+      "name": "White Tee",
+      "price": 25,
+      "category": "Shirts",
+      "image": "/images/Shirts17WT.png",
+      "description": "Basic White Tee, perfect for everyday wear",
+      "stock": 20
+    },
+    {
+      "id": "18",
+      "name": "Black Tee",
+      "price": 25,
+      "category": "Shirts",
+      "image": "/images/Shirts18BT.png",
+      "description": "Basic Black Tee, perfect for everyday wear",
+      "stock": 20
+    },
+    {
+      "id": "19",
+      "name": "Graphic Tee",
+      "price": 35,
+      "category": "Shirts",
+      "image": "/images/Shirts19GT.png",
+      "description": "Graphic Tee, perfect for casual wear",
+      "stock": 18
+    },
+    {
+      "id": "20",
+      "name": "Long Sleeve",
+      "price": 40,
+      "category": "Shirts",
+      "image": "/images/Shirts20LS.png",
+      "description": "Long Sleeve Shirt, perfect for cooler weather",
+      "stock": 14
+    },
+    {
+      "id": "21",
+      "name": "Striped Tee",
+      "price": 30,
+      "category": "Shirts",
+      "image": "/images/Shirts21ST.png",
+      "description": "Striped Tee, perfect for casual wear",
+      "stock": 13
+    },
+    {
+      "id": "22",
+      "name": "Oversized Tee",
+      "price": 35,
+      "category": "Shirts",
+      "image": "/images/Shirts22OT.png",
+      "description": "Oversized Tee, perfect for a relaxed fit",
+      "stock": 11
+    },
+    {
+      "id": "23",
+      "name": "Vintage Tee",
+      "price": 45,
+      "category": "Shirts",
+      "image": "/images/Shirts23VT.png",
+      "description": "Vintage Tee, perfect for a retro look",
+      "stock": 9
+    },
+    {
+      "id": "24",
+      "name": "Plain Tee",
+      "price": 20,
+      "category": "Shirts",
+      "image": "/images/Shirts24PT.png",
+      "description": "Plain Tee, perfect for everyday wear",
+      "stock": 22
+    },
+    {
+      "id": "25",
+      "name": "Grey Hoodie",
+      "price": 60,
+      "category": "Sweaters",
+      "image": "/images/Sweaters25GH.png",
+      "description": "Hoodie, perfect for cooler weather",
+      "stock": 10
+    },
+    {
+      "id": "26",
+      "name": "Black Hoodie",
+      "price": 65,
+      "category": "Sweaters",
+      "image": "/images/Sweaters26BH.png",
+      "description": "Hoodie, perfect for cooler weather",
+      "stock": 9
+    },
+    {
+      "id": "27",
+      "name": "Crewneck",
+      "price": 55,
+      "category": "Sweaters",
+      "image": "/images/Sweaters27CN.png",
+      "description": "Crewneck Sweater, perfect for cooler weather",
+      "stock": 8
+    },
+    {
+      "id": "28",
+      "name": "Zip Hoodie",
+      "price": 70,
+      "category": "Sweaters",
+      "image": "/images/Sweaters28ZH.png",
+      "description": "Zip Hoodie, perfect for cooler weather",
+      "stock": 7
+    },
+    {
+      "id": "29",
+      "name": "Oversized Hoodie",
+      "price": 75,
+      "category": "Sweaters",
+      "image": "/images/Sweaters29OH.png",
+      "description": "Oversized Hoodie, perfect for a relaxed fit",
+      "stock": 6
+    },
+    {
+      "id": "30",
+      "name": "Knitted Sweater",
+      "price": 80,
+      "category": "Sweaters",
+      "image": "/images/Sweaters30KS.png",
+      "description": "Knitted Sweater, perfect for cooler weather",
+      "stock": 5
+    },
+    {
+      "id": "31",
+      "name": "Wool Sweater",
+      "price": 85,
+      "category": "Sweaters",
+      "image": "/images/Sweaters31WS.png",
+      "description": "Wool Sweater, perfect for cooler weather",
+      "stock": 4
+    },
+    {
+      "id": "32",
+      "name": "Minimal Hoodie",
+      "price": 60,
+      "category": "Sweaters",
+      "image": "/images/Sweaters32MH.png",
+      "description": "Minimal Hoodie, perfect for cooler weather",
+      "stock": 10
+    },
+    {
+      "id": "33",
+      "name": "Running Shoes",
+      "price": 120,
+      "category": "Shoes",
+      "image": "/images/Shoes33RS.png",
+      "description": "Running Shoes, perfect for sports",
+      "stock": 10
+    },
+    {
+      "id": "34",
+      "name": "Sneakers",
+      "price": 100,
+      "category": "Shoes",
+      "image": "/images/Shoes34S.png",
+      "description": "Sneakers, perfect for everyday wear",
+      "stock": 12
+    },
+    {
+      "id": "35",
+      "name": "Boots",
+      "price": 150,
+      "category": "Shoes",
+      "image": "/images/Shoes35B.png",
+      "description": "Boots, perfect for cooler weather",
+      "stock": 8
+    },
+    {
+      "id": "36",
+      "name": "Slides",
+      "price": 40,
+      "category": "Shoes",
+      "image": "/images/Shoes36SLDS.png",
+      "description": "Slides, perfect for casual wear",
+      "stock": 15
+    },
+    {
+      "id": "37",
+      "name": "High Tops",
+      "price": 110,
+      "category": "Shoes",
+      "image": "/images/Shoes37HT.png",
+      "description": "High Tops, perfect for a bold look",
+      "stock": 7
+    },
+    {
+      "id": "38",
+      "name": "Low Tops",
+      "price": 90,
+      "category": "Shoes",
+      "image": "/images/Shoes38LT.png",
+      "description": "Low Tops, perfect for a casual look",
+      "stock": 9
+    },
+    {
+      "id": "39",
+      "name": "Trail Shoes",
+      "price": 130,
+      "category": "Shoes",
+      "image": "/images/Shoes39TS.png",
+      "description": "Trail Shoes, perfect for outdoor activities",
+      "stock": 6
+    },
+    {
+      "id": "40",
+      "name": "Slip Ons",
+      "price": 70,
+      "category": "Shoes",
+      "image": "/images/Shoes40SO.png",
+      "description": "Slip Ons, perfect for casual wear",
+      "stock": 11
+    }
+  ],
+  "cart": []
+}
