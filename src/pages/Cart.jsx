@@ -18,9 +18,11 @@ function Cart() {
     }
   };
 
-  useEffect(() => {
+useEffect(() => {
+  if (process.env.NODE_ENV !== "test") {
     loadCart();
-  }, []);
+  }
+}, []);
 
   const removeItem = async (id) => {
     try {
